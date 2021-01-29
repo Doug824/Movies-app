@@ -1,0 +1,17 @@
+html {    
+    background: url(https://images-na.ssl-images-amazon.com/images/I/51TUy2MA6xL._AC_.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.main-heading {
+    background-color: black;
+    color: rgb(224, 189, 93);
+    background: url(https://t4.ftcdn.net/jpg/00/11/55/73/240_F_11557382_KCYHEmhxBX5VjSrrqMg2xYOXRtqvW4pg.jpg); 
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+}
