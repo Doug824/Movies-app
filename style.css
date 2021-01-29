@@ -9,6 +9,7 @@ html {
 .main-heading {
     background-color: black;
     color: rgb(224, 189, 93);
+    padding-top: 30px;
     background: url(https://t4.ftcdn.net/jpg/00/11/55/73/240_F_11557382_KCYHEmhxBX5VjSrrqMg2xYOXRtqvW4pg.jpg); 
     -moz-background-size: cover;
     background-size: cover;
